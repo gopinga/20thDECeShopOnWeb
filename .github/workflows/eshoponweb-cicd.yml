@@ -9,7 +9,7 @@ env:
   LOCATION: eastus2
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 74c3e4c5-e019-4440-892d-2a84143421b7
-  WEBAPP-NAME: eshoponweb-webapp-20thDEC
+  WEBAPP-NAME: eshoponweb-webapp-GOPI-ONLINESHOPPING
 
 
 jobs:
